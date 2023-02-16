@@ -1,0 +1,39 @@
+body{
+    background-color: #393E46;
+}
+h1{
+    font-family: 'Lobster', cursive;
+    color: #4ECCA3;
+    font-size: 8rem;
+    text-shadow: 5px 0 #232931;
+    margin:10px 0 10px;
+}
+p{
+    color: #4ECCA3;
+    font-family: 'Indie Flower', cursive;
+    font-size: 2rem;
+}
+.container div button{
+    background-color: #293E46;
+    color: #4ECCA3;
+}
+footer{
+    color: #EEEEEE;
+    text-align: center;
+    margin-top: 30px;
+    font-size: 1.2rem;
+    font-family: 'Indie Flower', cursive;
+    font-style: italic;
+}
+.container{
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+    color: #4ECCA3;
+}
+.dice{
+    display: inline-block;
+    margin: 0 15px 15px;
+}
+.dice img{
+    width: 200px;
+}
